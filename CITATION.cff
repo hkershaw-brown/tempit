@@ -10,7 +10,5 @@ authors:
   - name: UCAR/NCAR/CISL/DAReS
     city: Boulder
     country: CO
-identifiers:
-  - type: doi
-    value: 10.5065/D6WQ0202
+doi: 10.5065/D6WQ0202
 repository-code: 'https://github.com/NCAR/DART'
