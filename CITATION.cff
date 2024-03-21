@@ -5,7 +5,7 @@ message: >-
   the DART version and year as appropriate.
 type: software
 version: 11.X.X
-year: 2024
+date-released: '2024-03-21'
 authors:
   - name: UCAR/NCAR/CISL/DAReS
     city: Boulder
