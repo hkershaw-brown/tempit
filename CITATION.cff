@@ -4,6 +4,7 @@ message: >-
   To cite DART, please use the following metadata. Update
   the DART version and year as appropriate.
 type: software
+version: 11.X.X
 authors:
   - name: UCAR/NCAR/CISL/DAReS
     city: Boulder
